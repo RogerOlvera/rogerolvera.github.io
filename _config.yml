@@ -45,15 +45,19 @@ linkedin_username: rogelioolveram
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: Acerca de mí
-about_profile_image: c:\Users\the_o\OneDrive\Documents\ROM\CV\foto_cv.jpg
+about_title: Acerca de mí
+about_subtitle: Analista de datos con MBA en Negocios de Mercadotecnia
+about_profile_image: https://drive.google.com/file/d/1zum0IX-3HEclzMakthTvTKBE1KPBKXVt/view?usp=drive_link
 about_content: | # this will include new lines to allow paragraphs 
 
-  Profesional con más de 15 años de experiencia en gestión comercial basada en el análisis de datos y respaldado por un MBA en Negocios de Mercadotecnia. 
+   👨  Profesional con más de 15 años de experiencia en gestión comercial basada en el análisis de datos y respaldado por un MBA en Negocios de Mercadotecnia. 
+
 
   💻🔥 Recientemente concluí un bootcamp de tecnología para profundizar mis conocimientos como Analista de datos, Python, SQL y análisis estadístico de negocios. 
 
-  🔎 Proporciono experiencia en el análisis de oportunidades de negocio para la mejora continua de los procesos y maximizar el retorno de inversión.
+
+  🔎   Proporciono experiencia en el análisis de oportunidades de negocio para la mejora continua de los procesos y maximizar el retorno de inversión.
+
 
   📋📊 Mi experiencia incluye: 
  
@@ -131,14 +135,15 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Adicional a mi experiencia profesional, tengo una amplia gama de intereses y pasatiempos que me apasionan. Me encanta aprender cosas nuevas y siempre estoy buscando formas de mejorar mis habilidades y conocimientos. Algunos de mis pasatiempos incluyen:
+      
       - Gaming, sobre todo juegos de peleas
       - Conciertos y festivales de música
       - Viajar y explorar nuevos lugares
       - Caminatas junto a mi cachorro
       
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    # Look at this cool image  
+    # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
