@@ -12,7 +12,7 @@ email: rogelioolveram@gmail.com
 website: https://rogerolvera.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 # twitter_username: facespics
@@ -93,42 +93,49 @@ content:
         description: | # this will include new lines to allow paragraphs
           En este proyecto utilizó técnicas de análisis de datos para pronosticar la retención de clientes en un gimnasio, así como su perfil de cliente. Utilizando un conjunto de datos de clientes de gimnasio, se desarrolló un modelo predictivo que permite identificar a los clientes con mayor probabilidad de abandonar el gimnasio y tomar medidas para retenerlos.
 
-  - title: Experience # Title for the section
+  - title: Experiencia # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: AB Inbev Grupo Modelo
+        link: https://www.grupomodelo.com/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Gerente nacional de canal tradicional
+        caption: Agosto 2006 - Abril 2022
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Transformando los procesos comerciales a través de la automatización y el análisis de datos. 
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          Durante mi tiempo en Grupo Modelo, lideré la transformación digital de los procesos comerciales del canal tradicional, implementando estrategias de automatización y análisis de datos para mejorar la eficiencia y efectividad de las operaciones y ventas del canal. He trabajado en estrecha colaboración con equipos multifuncionales para desarrollar e implementar estrategias comerciales basadas en datos que impulsaron el crecimiento y la rentabilidad.
 
-  - title: Education # Title for the section
+  - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Tripleten
+        caption: Sep 2024 - Sep 2025
+        sub_title: Bootcamp de Data Analyst
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Las habilidades que he adquirido en este bootcamp me han permitido profundizar en el análisis de datos, Python, SQL y análisis estadístico de negocios.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          En este bootcamp, he aprendido a utilizar herramientas y técnicas avanzadas de análisis de datos para extraer información valiosa de grandes conjuntos de datos. He adquirido habilidades en Python, SQL y análisis estadístico de negocios, lo que me ha permitido desarrollar modelos predictivos y realizar análisis complejos para tomar decisiones informadas.
+      - layout: left
+        title: Universidad Tec Milenio
+        caption: Oct 2009 - Ago 2011
+        sub_title: MBA en Negocios de Mercadotecnia
+        quote: >
+          Mi MBA en Negocios de Mercadotecnia me ha proporcionado una sólida base en estrategias comerciales y análisis de mercado.
+        description: | # this will include new lines to allow paragraphs
+          Durante mi MBA, he adquirido conocimientos en estrategias comerciales, análisis de mercado y gestión de proyectos. He aprendido a desarrollar e implementar estrategias comerciales efectivas basadas en datos y a utilizar herramientas de análisis para tomar decisiones informadas. Mi formación me ha permitido comprender las dinámicas del mercado y cómo aprovecharlas para impulsar el crecimiento y la rentabilidad de las empresas.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
+  - title: Un poco más sobre mí
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Adicional a mi experiencia profesional, tengo una amplia gama de intereses y pasatiempos que me apasionan. Me encanta aprender cosas nuevas y siempre estoy buscando formas de mejorar mis habilidades y conocimientos. Algunos de mis pasatiempos incluyen:
+      - Gaming, sobre todo juegos de peleas
+      - Conciertos y festivales de música
+      - Viajar y explorar nuevos lugares
+      - Caminatas junto a mi cachorro
+      
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
