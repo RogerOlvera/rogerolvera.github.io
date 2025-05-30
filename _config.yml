@@ -22,7 +22,7 @@ github_username:  RogerOlvera
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: www.linkedin.com/in/rogelioolveram
+linkedin_username: rogelioolveram
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -45,19 +45,18 @@ linkedin_username: www.linkedin.com/in/rogelioolveram
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  
-  Analista de negocios | Inteligencia de negocios | Estratregia comercial | E-commerce | Python | Comercialización | B2B | B2C | Digitalización de procesos | 
+# about_title: Acerca de mí
+about_profile_image: c:\Users\the_o\OneDrive\Documents\ROM\CV\foto_cv.jpg
+about_content: | # this will include new lines to allow paragraphs 
 
   Profesional con más de 15 años de experiencia en gestión comercial basada en el análisis de datos y respaldado por un MBA en Negocios de Mercadotecnia. 
 
-  Recientemente concluí un bootcamp de tecnología para profundizar mis conocimientos como Analista de datos, Python, SQL y análisis estadístico de negocios. 
+  💻🔥 Recientemente concluí un bootcamp de tecnología para profundizar mis conocimientos como Analista de datos, Python, SQL y análisis estadístico de negocios. 
 
-  Proporciono experiencia en el análisis de oportunidades de negocio para la mejora continua de los procesos y maximizar el retorno de inversión.
+  🔎 Proporciono experiencia en el análisis de oportunidades de negocio para la mejora continua de los procesos y maximizar el retorno de inversión.
 
-  Mi experiencia incluye: 
+  📋📊 Mi experiencia incluye: 
+ 
   <mark>Análisis de mercado basado en datos</mark> 
   <mark>Definición de estrategias comerciales con inteligencia de negocio</mark>
   <mark>Tests A / B</mark>
@@ -69,26 +68,30 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>Transformación digital</mark>
   <mark>Omnicanalidad</mark>
   <mark>Automatización de trade marketing</mark> 
+  <mark>Desarrollo de dashboards</mark>
+  <mark>Visualización de datos</mark>
+  <mark>Desarrollo de modelos predictivos</mark>
+  <mark>Desarrollo de modelos de Machine Learning</mark>
 
 content:
   - title: Proyectos # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Retención de clientes en gimnasio
+        link: https://github.com/RogerOlvera/Proyecto_13_pronostico_retencion_gimnasio
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  Repositorio en Github
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/RogerOlvera/Proyecto_13_pronostico_retencion_gimnasio
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Muchos clientes van y vienen, pero ¿cómo podemos predecir quiénes se quedarán y quiénes se irán?
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          En este proyecto utilizó técnicas de análisis de datos para pronosticar la retención de clientes en un gimnasio, así como su perfil de cliente. Utilizando un conjunto de datos de clientes de gimnasio, se desarrolló un modelo predictivo que permite identificar a los clientes con mayor probabilidad de abandonar el gimnasio y tomar medidas para retenerlos.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
