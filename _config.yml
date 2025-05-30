@@ -61,21 +61,21 @@ about_content: | # this will include new lines to allow paragraphs
 
   📋📊 Mi experiencia incluye: 
  
-  <mark>Análisis de mercado basado en datos</mark> 
-  <mark>Definición de estrategias comerciales con inteligencia de negocio</mark>
-  <mark>Tests A / B</mark>
-  <mark>Segmentación de mercado (Clusters)</mark>
-  <mark>Programas de lealtad basado en análisis de datos</mark>
-  <mark>B2B & B2C</mark>
-  <mark>ROI basado en datos</mark>
-  <mark>Administración de presupuestos, estimaciones y aplicaciones</mark>
-  <mark>Transformación digital</mark>
-  <mark>Omnicanalidad</mark>
-  <mark>Automatización de trade marketing</mark> 
-  <mark>Desarrollo de dashboards</mark>
-  <mark>Visualización de datos</mark>
-  <mark>Desarrollo de modelos predictivos</mark>
-  <mark>Desarrollo de modelos de Machine Learning</mark>
+    <mark>Análisis de mercado basado en datos</mark> 
+    <mark>Definición de estrategias comerciales con inteligencia de negocio</mark>
+    <mark>Tests A / B</mark>
+    <mark>Segmentación de mercado (Clusters)</mark>
+    <mark>Programas de lealtad basado en análisis de datos</mark>
+    <mark>B2B & B2C</mark>
+    <mark>ROI basado en datos</mark>
+    <mark>Administración de presupuestos, estimaciones y aplicaciones</mark>
+    <mark>Transformación digital</mark>
+    <mark>Omnicanalidad</mark>
+    <mark>Automatización de trade marketing</mark> 
+    <mark>Desarrollo de dashboards</mark>
+    <mark>Visualización de datos</mark>
+    <mark>Desarrollo de modelos predictivos</mark>
+    <mark>Desarrollo de modelos de Machine Learning</mark>
 
 content:
   - title: Proyectos # Title for the section
@@ -107,7 +107,7 @@ content:
         sub_title: Gerente nacional de canal tradicional
         caption: Agosto 2006 - Abril 2022
         quote: >
-          Transformando los procesos comerciales a través de la automatización y el análisis de datos. 
+          "Transformando los procesos comerciales a través de la automatización y el análisis de datos."
         description: | # this will include new lines to allow paragraphs
           Durante mi tiempo en Grupo Modelo, lideré la transformación digital de los procesos comerciales del canal tradicional, implementando estrategias de automatización y análisis de datos para mejorar la eficiencia y efectividad de las operaciones y ventas del canal. He trabajado en estrecha colaboración con equipos multifuncionales para desarrollar e implementar estrategias comerciales basadas en datos que impulsaron el crecimiento y la rentabilidad.
 
@@ -134,12 +134,14 @@ content:
   - title: Un poco más sobre mí
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Adicional a mi experiencia profesional, tengo una amplia gama de intereses y pasatiempos que me apasionan. Me encanta aprender cosas nuevas y siempre estoy buscando formas de mejorar mis habilidades y conocimientos. Algunos de mis pasatiempos incluyen:
+      | Adicional a mi experiencia profesional, tengo una amplia gama de intereses y pasatiempos que me apasionan. 
+      | Me encanta aprender cosas nuevas y siempre estoy buscando formas de mejorar mis habilidades y conocimientos. 
+      | Algunos de mis pasatiempos incluyen:
       
-      - Gaming, sobre todo juegos de peleas
-      - Conciertos y festivales de música
-      - Viajar y explorar nuevos lugares
-      - Caminatas junto a mi cachorro
+      - 🎮  Gaming, sobre todo juegos de peleas
+      - 🎶  Conciertos y festivales de música
+      - ✈️  Viajar y explorar nuevos lugares
+      - 🚶🐶 Caminatas junto a mi cachorro
       
 
     # Look at this cool image  
