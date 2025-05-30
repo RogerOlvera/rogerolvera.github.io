@@ -16,7 +16,7 @@ darkmode: never
 
 # Social links
 # twitter_username: facespics
-github_username:  RogerOlvera
+github_username: RogerOlvera
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -47,7 +47,7 @@ linkedin_username: rogelioolveram
 # About Section
 about_title: Acerca de mí
 about_subtitle: Analista de datos con MBA en Negocios de Mercadotecnia
-about_profile_image: https://drive.google.com/file/d/1zum0IX-3HEclzMakthTvTKBE1KPBKXVt/view?usp=drive_link
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs 
 
    👨  Profesional con más de 15 años de experiencia en gestión comercial basada en el análisis de datos y respaldado por un MBA en Negocios de Mercadotecnia. 
